@@ -1,0 +1,132 @@
+{
+  "categorySubject": [
+    {
+      "id": 1,
+      "name": "Công nghệ thông tin"
+    },
+    {
+      "name": "Marketing",
+      "id": 2
+    },
+    {
+      "name": "Thiết kế đồ họa",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "id": 4
+    }
+  ],
+  "subject": [
+    {
+      "name": "Html 5 & Css3",
+      "categorySubjectId": "1",
+      "time": "25",
+      "description": "<p>Thiết kế giao diện website từ cơ bản đến nâng cao nhất</p>",
+      "id": 5,
+      "nameCategory": "Công nghệ thông tin",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2FHTML5-CSS3.jpg?alt=media&token=07a003b3-3dc8-4ba9-9cce-279e40cce24d"
+    },
+    {
+      "name": "Digital marketing",
+      "categorySubjectId": "2",
+      "time": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2F3.jpg?alt=media&token=dcb11f75-a2f1-4e6b-a2d6-fa7fa008b1a4",
+      "description": "<p>Digital Marketing là một khái niệm đang dần trở nên quen thuộc đối với tất cả mọi người, đặc biệt là các bạn làm về Marketing, kinh doanh và Công nghệ thông tin. Dù bạn là một trong số các Marketers truyền thống hay bạn là người mới hoàn toàn đang muốn tìm hiểu và đi sâu hơn về mảng Digital này thì bạn nên biết là sẽ có những khó khăn gì và nên ứng phó thế nào để có thể làm tốt hơn. Dưới đây là một số câu hỏi thường gặp nhất và lời khuyên cho các câu hỏi này, hi vọng sẽ hữu ích cho bạn mới bước chân vào Digital Marketing.</p>",
+      "id": 6,
+      "nameCategory": "marketing"
+    },
+    {
+      "name": "Javacript cơ bản",
+      "categorySubjectId": "1",
+      "time": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2Fjavascript-la-gi.jpg?alt=media&token=6bafe6aa-709f-4976-b633-67f6fef7c5a6",
+      "description": "<p>Tham dự trên 80% số buổi học, và hoàn tất đồ án cuối khóa, học viên sẽ được cấp Chứng nhận Full Stack JavaScript do <strong>Trung Tâm&nbsp;</strong> cấp, có giá trị toàn quốc</p>",
+      "id": "99a90be6-352e-4944-87a5-4c11b6623b33",
+      "nameCategory": "Công nghệ thông tin"
+    },
+    {
+      "name": "Quản trị marketing",
+      "categorySubjectId": "2",
+      "time": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2Fhinh-anh-quan-tri-marketing-la-gi-1.jpg?alt=media&token=55ea5cb7-09e2-4323-9dc5-72cba1b779e8",
+      "description": "<p>Nhà quản trị Marketing là những người trực tiếp tham gia chỉ đạo và thực hiện về các công việc cụ thể trong mỗi kế hoạch marketing của doanh nghiệp.</p><p>Hàng ngày, một nhà quản trị Marketing sẽ thực hiện các công việc như sau:</p><ul><li>Nghiên cứu, phân tích về các mong muốn, yêu cầu và mối quan tâm của mỗi khách hàng. Từ đó nhà quản trị marketing sẽ lên kế hoạch đánh giá và lập ra những chiến lược phù hợp, đáp ứng nhu cầu đó.</li><li>Tìm ra những vấn đề có ảnh hưởng tới các hoạt động Marketing và vấn đề làm giảm sản lượng bán của doanh nghiệp. Sau đó tìm hiểu kỹ các nguyên nhân và đề ra một số giải pháp có tính chất cơ sở cũng như tính chiến lược cao.</li><li>Phân tích về môi trường vĩ mô và môi trường ngành để có thể đề xuất và đưa ra các ý kiến, giải pháp giúp cải tiến sản phẩm, dịch vụ.</li></ul>",
+      "id": "7160443a-9458-424a-b2e3-33ae25621a85"
+    },
+    {
+      "name": "Thiết kế hình ảnh với Photoshop",
+      "categorySubjectId": "3",
+      "time": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2Fphan-mem-thiet-ke-do-hoa-photoshop.jpg?alt=media&token=3627bcf1-b237-423c-aaf0-64ccee4425b1",
+      "description": "<p>Photoshop viết tắt là pts nằm trong top 10 phần mềm thiết kế đồ họa chuyên nghiệp và phổ biến nhất hiện nay. Các chức năng chính của Photoshop là chỉnh sửa ảnh. Đây là phần mềm mà các Designer bắt buộc phải biết trong lĩnh vực thiết kế đồ họa. Bên cạnh chỉnh sửa ảnh, phần mềm này còn được sử dụng phổ biến trong thiết kế hiển thị. Hiện nay, Photoshop là phần mềm đồ họa Bitmap mạnh mẽ nhất. Phần mềm này cũng được đưa vào giáo trình giảng dạy của các trường đại học, cao đẳng hay trường nghề. Học pts hiện nay được khá nhiều mọi người quan tâm, tìm hiểu vì nó rất cần thiết cho các nhu cầu cá nhân lẫn công việc.</p>",
+      "id": "8ef55863-a2fd-4411-afb9-6b68da04a417"
+    },
+    {
+      "name": "Dựng video với Premiere",
+      "categorySubjectId": "3",
+      "time": "20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/jetgear-ebe18.appspot.com/o/imageReact%2FCSrOjgZ.jpg?alt=media&token=6bdbde4a-00fa-4ed4-8b8b-a481763bd25d",
+      "description": "<p>người dùng có thể sao chép, hiệu chỉnh và chia sẻ video trên net, trên radio, trên đĩa hoặc trên những thiết bị. Premiere Pro sử dụng cơ chế mới cho phép nhập, biên tập và xuất video với chất lượng cao HD (high-definition). Tuy nhiên, để làm việc tốt với video chất lượng HD yêu cầu hệ thống máy tính của người dùng phải rất mạnh, lượng RAM lớn và đĩa cứng có tốc độ cao, dung lượng còn trống lớn.</p>",
+      "id": "0f898935-5875-46fb-b792-075bb0e6cb13"
+    }
+  ],
+  "Question": [
+    {
+      "question": "how old are you ?",
+      "answer1": "18",
+      "correct": "20",
+      "answer2": "19",
+      "answer3": "20",
+      "answer4": "22",
+      "id": "aa42b409-615b-414f-9dea-d282509a097a"
+    },
+    {
+      "id": "d25b1ef3-1ae7-441d-8eed-e1c3f3b610d3",
+      "subjectId": "6",
+      "question": "What's your name",
+      "answer": [
+        "a",
+        "b",
+        "aaaa",
+        "viet"
+      ],
+      "correct": "viet"
+    },
+    {
+      "id": "6095c803-2d7b-4463-ac6f-9c2c938c3918",
+      "subjectId": "99a90be6-352e-4944-87a5-4c11b6623b33",
+      "question": "Where are you from ?",
+      "answer": [
+        "vietnam",
+        "usa",
+        "china",
+        "france"
+      ],
+      "correct": "vietnam"
+    },
+    {
+      "id": "26f720b6-61dd-4732-872f-48f8cff3574c",
+      "subjectId": "5",
+      "question": "What is your favourite",
+      "answer": [
+        "boxing",
+        "listen to music",
+        "reading book",
+        "play game"
+      ],
+      "correct": "boxing"
+    },
+    {
+      "id": "e72b6dcb-ac2d-4f91-9048-ea6d41cc43d3",
+      "subjectId": "6",
+      "question": "avcccc",
+      "answer": [
+        "â",
+        "19",
+        "20",
+        "4"
+      ],
+      "correct": "â"
+    }
+  ]
+}
