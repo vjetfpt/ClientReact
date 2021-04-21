@@ -19,6 +19,8 @@ import SubjectUpdate from './Pages/BackEnd/SubjectUpdate';
 import SubjectCate from "./Pages/BackEnd/SubjectCate"
 import Question from './Pages/BackEnd/Question';
 import QuestionUpdate from './Pages/BackEnd/QuestionUpdate';
+import ShowStudent from './Pages/BackEnd/ShowStudent';
+import DetailQuizStudent from './Pages/BackEnd/DetailQuizStudent';
 function App() {
   const [category, setCategories] = useState([]);
   const [subject, setSubject] = useState([]);
@@ -169,6 +171,12 @@ function App() {
               </Route>
               <Route path="/admin/cap-nhat-cau-hoi">
                 <QuestionUpdate subjects={subject} callApiUpdate={callApiUpdate}/>
+              </Route>
+              <Route path="/admin/quan-ly-bai-thi">
+                <ShowStudent />
+              </Route>
+              <Route path="/chi-tiet-bai-thi/:id">
+                <DetailQuizStudent />
               </Route>
             </Switch>
             <Footer />

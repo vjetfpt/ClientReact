@@ -40,6 +40,12 @@ const SideBar = () => {
                                 <span>Cập nhật câu hỏi</span>
                             </Link>
                         </li>
+                        <li className="sidebar-item">
+                            <Link to="/admin/quan-ly-bai-thi" className='sidebar-link'>
+                                <i className="ti-write"></i>
+                                <span>Quản lý bài thi</span>
+                            </Link>
+                        </li>
                     </ul>
                 </div>
                 <button className="sidebar-toggler btn x"><i data-feather="x" /></button>
